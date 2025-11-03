@@ -1,0 +1,6 @@
+![Image](1.PNG)
+![Image](sentence_case.PNG)
+![Image](lowercase.PNG)
+![Image](uppercase.PNG)
+![Image](title_case.PNG)
+![Image](toggle_case.PNG)

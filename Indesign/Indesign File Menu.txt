@@ -1,0 +1,110 @@
+Indesign File Menu
+
+CREATE NEW DOCUMENT
+
+File Menu -> New -> Document....
+
+CTRL + N
+
+
+OPEN DOCUMENT
+
+File Menu -> Open
+
+CTRL + O
+
+
+CLOSE DOCUMENT
+
+File Menu -> Close
+
+CTRL + W
+
+
+SAVE DOCUMENT
+
+File Menu -> Save
+
+CTRL + S
+
+
+SAVE AS 
+
+File Menu -> Save As
+
+CTRL + SHIFT + S
+
+
+SAVE A COPY
+
+File Menu -> Save A Copy
+
+CTRL + ALT + S
+
+
+PLACE 
+
+File Menu -> Place
+
+CTRL + D
+
+
+EXPORT 
+
+File Menu -> Export
+
+CTRL + E
+
+
+DOCUMENT SETUP
+
+File Menu -> Document Setup
+
+CTRL + ALT + P
+
+
+ADJUST LAYOUT
+
+File Menu -> Adjust Layout
+
+ALT + SHIFT + P
+
+
+FILE INFO
+
+File Menu -> File Info
+
+CTRL + ALT + SHIFT + I
+
+
+PACKAGE
+
+File Menu -> Package
+
+CTRL + ALT + SHIFT + P
+
+
+PRINT
+
+File Menu -> Print
+
+CTRL + P
+
+
+EXIT INDESIGN
+
+File Menu -> Exit
+
+CTRL + Q
+
+
+
+
+
+
+
+
+
+
+
+

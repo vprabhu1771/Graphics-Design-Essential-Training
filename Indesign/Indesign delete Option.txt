@@ -1,0 +1,21 @@
+Delete Row 
+
+Table Menu -> Delete -> Row 
+
+Shortcut
+
+CTRL + Backspace
+
+
+Delete Column
+
+Table Menu -> Delete -> Column
+
+Shortcut
+
+SHIFT + Backspace
+
+
+Delete Table
+
+Table Menu -> Delete -> Table

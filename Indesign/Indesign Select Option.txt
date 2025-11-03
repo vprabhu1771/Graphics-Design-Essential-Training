@@ -1,0 +1,34 @@
+Select Cell
+
+Table Menu -> Select -> Select Cell 
+
+Shortcut
+
+CTRL + /
+
+
+Select Row
+
+Table Menu -> Select -> Select Row
+
+Shortcut
+
+CTRL + 3
+
+
+Select Column
+
+Table Menu -> Select -> Select Column
+
+Shortcut
+
+CTRL + ALT + 3
+
+
+Select Table
+
+Table Menu -> Select -> Select Table
+
+Shortcut
+
+CTRL + ALT + A

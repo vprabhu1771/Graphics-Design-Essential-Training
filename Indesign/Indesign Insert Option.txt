@@ -1,0 +1,17 @@
+Insert Row
+
+Table Menu -> Insert -> Row
+
+Shortcut
+
+CTRL + 9
+
+
+
+Insert Column
+
+Table Menu -> Insert -> Column
+
+Shortcut
+
+CTRL + ALT + 9

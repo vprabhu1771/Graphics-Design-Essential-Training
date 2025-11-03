@@ -1,0 +1,7 @@
+Draw Text Box -> Click Inside Box 
+
+Table Menu -> Insert Table 
+
+type row and column 
+
+hit ok

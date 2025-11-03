@@ -1,0 +1,3 @@
+Table Menu -> Merge Cells
+
+Table Menu -> Unmerge Cells

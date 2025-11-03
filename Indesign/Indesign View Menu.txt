@@ -1,0 +1,134 @@
+Indesign View Menu
+
+Zoom In
+
+View Menu -> Zoom In
+
+CTRL + =
+
+
+Zoom Out
+
+View Menu -> Zoom Out
+
+CTRL + -
+
+
+
+Fit Page in Window
+
+View Menu -> Fit Page in Window
+
+CTRL + 0
+
+
+
+Fit Spread in Window
+
+View Menu -> Fit Spread in Window
+
+CTRL + ALT + 0
+
+
+
+Actual Size
+
+View Menu -> Actual Size
+
+CTRL + 1
+
+
+
+
+Entire Pasteboard
+
+View Menu -> Actual Size
+
+CTRL + ALT + SHIFT + 0
+
+
+
+Rotate Spread in 90 CW
+
+View Menu -> Rotate Spread -> 90 CW
+
+
+
+Rotate Spread in 90 CCW
+
+View Menu -> Rotate Spread -> 90 CCW
+
+
+
+Rotate Spread in 180
+
+View Menu -> Rotate Spread -> 180
+
+
+
+Clear Rotation
+
+View Menu -> Rotate Spread -> Clear Rotation
+
+
+
+Screen Mode - Normal
+
+View Menu -> Screen Mode -> Normal
+
+
+
+Screen Mode - Preview
+
+View Menu -> Screen Mode -> Preview
+
+
+
+Screen Mode - Bleed
+
+View Menu -> Screen Mode -> Bleed
+
+
+
+Screen Mode - Slug
+
+View Menu -> Screen Mode -> Slug
+
+
+
+
+Screen Mode - Presentation
+
+View Menu -> Screen Mode -> Presentation
+
+SHIFT + W
+
+
+
+Display Performance - Fast Display
+
+View Menu -> Display Performance -> Fast Display
+
+CTRL + ALT + SHIFT + Z
+
+
+Display Performance - Typical Display
+
+View Menu -> Display Performance -> Typical Display
+
+CTRL + ALT + Z
+
+
+Display Performance - High Quality Display
+
+View Menu -> Display Performance -> High Quality Display
+
+CTRL + ALT + H
+
+
+
+Hide Rulers
+
+View Menu -> Hide Rulers
+
+CTRL + R

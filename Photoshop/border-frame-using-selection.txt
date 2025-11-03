@@ -1,0 +1,34 @@
+1. Create New Layer
+
+
+2. Select All
+
+Select Menu -> All 
+
+CTRL + A
+
+
+3. Storke
+
+Edit Menu -> Storke
+
+
+4. Free Transform 
+
+Edit Menu -> Free Transform
+
+CTRL + T
+
+
+5. Increase or Decrease Frame Height and Width 
+
+click Maintain Aspect Ratio 
+
+
+6. Click Accept Changes
+
+CTRL + ENTER
+
+
+7. Deselect CTRL + D
+

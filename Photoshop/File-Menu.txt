@@ -1,0 +1,29 @@
+New Document
+
+File Menu -> New
+
+Shortcut: CTRL + N
+
+
+
+Open Document
+
+File Menu -> Open
+
+Shortcut: CTRL + O
+
+
+
+Save Document
+
+File Menu -> Save
+
+Shortcut: CTRL + S
+
+
+Photoshop 7.0 Style New Document Setup Window
+
+Edit Menu -> Preferences -> General -> Use Legacy New Document Interface
+
+
+

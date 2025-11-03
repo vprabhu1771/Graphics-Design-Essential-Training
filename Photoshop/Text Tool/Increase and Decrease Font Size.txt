@@ -1,0 +1,8 @@
+Increase Font Size
+
+CTRL + SHIFT + <
+
+
+Decrease Font Size
+
+CTRL + SHIFT + >

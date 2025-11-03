@@ -1,0 +1,18 @@
+Horizontal Type Tool -> T
+
+Vertical Type Tool -> SHIFT + T
+
+Vertical Type Mask Tool -> SHIFT + T
+
+Horizontal Type Mask Tool -> T
+
+
+Accept Changes -> CTRL + ENTER
+
+Reject Changes -> ESC Key
+
+
+
+Increase Font Size -> CTRL + >
+
+Decrease Font Size -> CTRL + <

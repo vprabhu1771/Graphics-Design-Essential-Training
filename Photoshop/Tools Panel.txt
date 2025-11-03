@@ -1,0 +1,18 @@
+Move Tool  -> V
+
+Rectangle Marquee Tool -> M
+
+Elliptical Marquee Tool -> SHIFT + M
+
+Rectangle Shape Tool -> U
+
+Ellipse Shape Tool -> SHIFT + U
+
+Triangle Shape Tool -> SHIFT + U
+
+Polygon Shape Tool -> SHIFT + U
+
+Line Shape Tool -> SHIFT + U
+
+Custom Shape Tool -> SHIFT + U
+

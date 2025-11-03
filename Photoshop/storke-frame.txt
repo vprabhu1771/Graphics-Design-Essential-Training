@@ -1,0 +1,7 @@
+1. Create New Layer 
+
+2. Go To Edit Menu -> Storke 
+
+3. Select Storke Layer and Use Free Transform CTRL + T
+
+4. Under Free Transform Click Maintain Aspect Ratio -> decrease or increase width -> w or height -> h

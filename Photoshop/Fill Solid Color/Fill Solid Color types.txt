@@ -1,0 +1,9 @@
+Fill Solid Color
+
+There are Three types to fill solid color
+
+1. Using Plain Shorcuts
+
+2. Using Paint Bucket
+
+3. Using Ajustment Layer -> Solid Color

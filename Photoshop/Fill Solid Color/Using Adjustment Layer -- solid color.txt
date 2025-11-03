@@ -1,0 +1,7 @@
+Using Adjustment Layer -- solid color
+
+Go To Layers Panel -> Adjustment Layer Icon -> Solid Color
+
+(or)
+
+Layer Menu -> New File Layer -> Solid Color

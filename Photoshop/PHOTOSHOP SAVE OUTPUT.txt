@@ -1,0 +1,54 @@
+PSD SAVING
+
+File -> Save -> filename
+
+SHORTCUT 
+
+CTRL + S
+
+
+JPEG or JPG SAVING
+
+File -> Save -> filename 
+
+Format JPEG or JPG
+
+Click OK
+
+(or)
+
+File -> Save as -> filename 
+
+Format JPEG or JPG
+
+Click OK
+
+JPEG OPTION
+
+Quality : 12
+
+Click OK
+
+
+
+PNG SAVING
+
+File -> Save -> filename 
+
+Format PNG
+
+Click OK
+
+(or)
+
+File -> Save as -> filename 
+
+Format PNG
+
+Click OK
+
+PNG OPTION
+
+None
+
+Click OK

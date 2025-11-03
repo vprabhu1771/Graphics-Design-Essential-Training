@@ -1,0 +1,24 @@
+Using Paint Bucket
+
+1. First We need to create new layer
+
+Layer Menu -> New -> Layer... 
+
+Shortcut:
+
+CTRL + SHIFT + N
+
+
+2. To Fill Solid Color We need choose color in color pallete
+
+
+3. Select Layer to Fill Solid Color 
+
+Tools Panel -> Select Paint Bucket Tool 
+
+Shortcut:
+
+G (or) SHIFT + G
+
+note: this shortcut only applies to foreground color
+

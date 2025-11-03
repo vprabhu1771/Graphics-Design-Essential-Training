@@ -1,0 +1,15 @@
+Text Align Vertical Tool
+
+Align Top
+
+CTRL + SHIFT + L
+
+
+Align Center
+
+CTRL + SHIFT + C
+
+
+Align Bottom
+
+CTRL + SHIFT + R

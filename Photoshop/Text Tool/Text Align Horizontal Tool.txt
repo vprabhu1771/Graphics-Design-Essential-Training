@@ -1,0 +1,15 @@
+Text Align Horizontal Tool
+
+Align Left
+
+CTRL + SHIFT + L
+
+
+Align Center
+
+CTRL + SHIFT + C
+
+
+Align Right
+
+CTRL + SHIFT + R

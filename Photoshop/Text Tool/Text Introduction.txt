@@ -1,0 +1,12 @@
+Text Tool has two types:
+
+1. Horizontal Text Tool 
+
+shortcut: T
+
+2. Vertical Text Tool
+
+shortcut: SHIFT + T
+
+
+

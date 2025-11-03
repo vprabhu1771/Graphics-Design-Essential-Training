@@ -1,0 +1,33 @@
+FILL Foreground Color Pallete
+
+ALT + BACKSPACE
+
+Fill Background Color Pallete
+
+CTRL + BACKSPACE
+
+
+
+
+
+Copy 
+
+CTRL + C
+
+
+
+Cut 
+
+CTRL + X
+
+
+
+Paste 
+
+CTRL + v
+
+
+
+Free Transform
+
+CTRL + T

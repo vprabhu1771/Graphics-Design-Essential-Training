@@ -1,0 +1,39 @@
+Show or Hide Layers Panel
+
+Window -> Layers
+
+F7
+
+
+Create New Layer With Name Popup
+
+CTRL + SHIFT + N
+
+
+Create New Layer Without Name Popup
+
+CTRL + SHIFT + ALT + N
+
+
+Layer via Copy
+
+CTRL + J
+
+
+Group Layers
+
+CTRL + G
+
+
+Ungroup Layers
+
+SHIFT + CTRL + G
+
+
+Merge Layers
+
+CTRL + E
+
+
+
+

@@ -1,0 +1,7 @@
+Select All -> CTRL + A
+
+Deselect -> CTRL + D
+
+Reselect -> SHIFT + CTRL + D
+
+Inverse -> SHIFT + CTRL + I

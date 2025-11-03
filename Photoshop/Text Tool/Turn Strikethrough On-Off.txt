@@ -1,0 +1,8 @@
+Turn Strikethrough ON
+
+CTRL + SHIFT + / (forward slash)
+
+
+Turn Strikethrough OFF
+
+CTRL + SHIFT + / (forward slash)

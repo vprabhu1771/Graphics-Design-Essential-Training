@@ -1,0 +1,9 @@
+1. Go To Type Tool
+
+Shortcut: T
+
+2. Type your Content
+
+3. Select Your Text Layer
+
+4. Go To Type Menu -> Orientation -> Horizontal                                                                                                                                         

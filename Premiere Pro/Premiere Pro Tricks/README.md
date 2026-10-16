@@ -34,7 +34,15 @@ Fast forward Playback 1x
 ```
 L
 ```
+# Default Transitions
 
+```
+Effects -> Video Transitions -> Choose Effect -> Right Click -> Set Selected as Default Transition
+```
+
+```
+Select All Video -> CTRL + D
+```
 Stop Playback
 ```
 K

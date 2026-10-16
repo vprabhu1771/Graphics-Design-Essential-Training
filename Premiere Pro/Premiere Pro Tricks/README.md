@@ -47,3 +47,13 @@ Stop Playback
 ```
 K
 ```
+
+# Default Audio Transitions
+
+```
+Effects -> Audio Transitions -> Choose Effect -> Right Click -> Set Selected as Default Transition
+```
+
+```
+Select All Audio -> CTRL + Shift + D
+```

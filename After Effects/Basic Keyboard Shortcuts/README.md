@@ -48,3 +48,5 @@ Here's a clean, organized breakdown of your After Effects tools list:
 - **Alt/Opt + W** is a handy one to memorize for rotoscoping work.
 
 Would you like me to add the remaining After Effects tools (Brush, Eraser, Clone Stamp, Puppet, Camera, etc.) to complete the set?
+
+🎞️ Layer Properties & Keyframes

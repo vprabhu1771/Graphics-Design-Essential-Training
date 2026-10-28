@@ -22,7 +22,7 @@ End -> Add Key -> 0 to 100
 
 CTRL + Y -> New Solid Layer
 
-Select Solid Layer -> Effects -> Generate -> Element -> Lens Flare
+Select Solid Layer -> Effects -> Generate -> Lens Flare
 
 Select Text Outlines -> Press M for mask path -> Copy Mask Path
 

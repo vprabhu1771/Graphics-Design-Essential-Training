@@ -1,3 +1,10 @@
+```
+https://www.youtube.com/shorts/2vkDwrVoFAA
+```
+
+```
+https://www.youtube.com/shorts/hJul3_ntsoU
+```
 
 ```
 time*20

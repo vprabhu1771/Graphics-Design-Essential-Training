@@ -10,3 +10,18 @@ time*-20
 ```
 wiggle(1,50)
 ```
+
+# Y-AXIS / VERTICAL
+```
+ORG=value;
+TEMP=wiggle(5,50);
+[ORG[0], TEMP[1]];
+```
+
+# X-AXIS / HORIZONTAL
+```
+ORG=value;
+TEMP=wiggle(5,50);
+[TEMP[0], ORG[1]];
+```
+

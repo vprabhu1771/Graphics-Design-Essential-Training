@@ -7,3 +7,8 @@ https://www.youtube.com/watch?v=ECghrOw-tto
 ```
 https://www.youtube.com/watch?v=nXJr7-Bp8y8
 ```
+
+# Make MAP Animations Like Vox
+```
+https://www.youtube.com/watch?v=VcGY9pVh1a0
+```

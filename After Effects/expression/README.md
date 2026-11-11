@@ -13,6 +13,12 @@ time*20
 ```
 time*-20
 ```
+
+# Loop
+```
+loopOut()
+```
+
 # Wiggle Expression in After Effects
 ```
 https://www.youtube.com/watch?v=7K5fF8rh56U

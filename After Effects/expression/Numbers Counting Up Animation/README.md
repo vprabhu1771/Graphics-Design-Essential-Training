@@ -1,3 +1,8 @@
+# Numbers Counting Up Animation in After Effects
+```
+https://www.youtube.com/watch?v=cLYt0SyZEU0
+```
+
 ```
 Create empty Text layer -> Effects -> Expression Controls -> Slider Control
 ```

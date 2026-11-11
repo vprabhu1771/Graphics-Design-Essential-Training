@@ -19,6 +19,11 @@ time*-20
 loopOut()
 ```
 
+# Infinity Loop Motion Graphic Scenes in After Effects
+```
+https://www.youtube.com/shorts/_ddVPV85Ajs
+```
+
 # Wiggle Expression in After Effects
 ```
 https://www.youtube.com/watch?v=7K5fF8rh56U

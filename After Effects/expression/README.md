@@ -19,6 +19,23 @@ time*-20
 loopOut()
 ```
 
+```
+loopOut("cycle")
+```
+
+```
+loopOut("offset")
+```
+
+```
+loopOut("pingpong")
+```
+
+```
+loopOut("continue")
+```
+
+
 # Infinity Loop Motion Graphic Scenes in After Effects
 ```
 https://www.youtube.com/shorts/_ddVPV85Ajs
